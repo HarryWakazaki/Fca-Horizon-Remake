@@ -24,7 +24,7 @@
   "author": "Avery, David, Maude, Benjamin, Kanzu",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^2.11.0",
+    "bluebird": "^3.7.2",
     "cheerio": "latest",
     "https-proxy-agent": "latest",
     "mqtt": "latest",
