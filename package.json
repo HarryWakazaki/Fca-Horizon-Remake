@@ -36,7 +36,7 @@
     "crypto": "latest",
     "aes-js": "latest",
     "axios": "latest",
-    "chalk": "4.1.2"
+    "chalk": "5.0.0"
   },
   "engines": {
     "node": ">=10.x"
