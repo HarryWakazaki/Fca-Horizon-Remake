@@ -51,7 +51,7 @@
     "node": ">=12.x"
   },
   "devDependencies": {
-    "eslint": "^7.5.0",
+    "eslint": "^8.12.0",
     "mocha": "^7.0.1",
     "prettier": "^1.11.1"
   },
