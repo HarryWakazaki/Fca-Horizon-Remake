@@ -36,7 +36,7 @@
     "npmlog": "latest",
     "os": "latest",
     "path": "latest",
-    "pretty-ms": "7.0.1",
+    "pretty-ms": "8.0.0",
     "request": "latest",
     "websocket-stream": "latest",
     "uuid-apikey": "latest",
